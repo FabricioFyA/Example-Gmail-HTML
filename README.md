@@ -5,9 +5,9 @@ This code is an example gmail html for use personal or others
 
 is easy only realize this
 
-1)_ Go to your E-Mail and connect your account do use personal or other
+- 1_ Go to your E-Mail and connect your account do use personal or other
 
-2)_Copy the code the file "index.html" marked from a point a the point final and paste a your E-Mail message
+- 2_ Copy the code the file "index.html" marked from a point a the point final and paste a your E-Mail message
 
 # Errors
 
